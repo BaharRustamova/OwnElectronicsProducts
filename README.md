@@ -1,1 +1,1 @@
-# OwnElectronicsProducts
+Cleaning, arrangement and analysis of general data was carried out here. The file contains both a PowerPoint and an Excel file. The file may not open, in this case it is more appropriate to download and open it.
